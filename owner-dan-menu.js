@@ -18,19 +18,12 @@ global.sessionName = 'session'
 
 global.prefa = ['-_-']
 
-global.caption_pay = `Qris All Pay
+global.caption_pay = `Dana / Shopepay / OVO :
+089615659930 
+Jago : 105571110623
 
-Ovo
-
-Dana
-
-Gopay
-
-
-
-Mau ganti payment? ketik .setpay
-
-`
+Bukti Transfer Kirim Group.
+Terimakasih🙏`
 
 //menu bot rapihin sendiri ya, belajar lah jadi anak mandiri.
 
