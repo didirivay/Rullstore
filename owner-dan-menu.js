@@ -8,9 +8,7 @@ global.namaowner = "Didirivay"
 
 global.footer_text = "© " + namabot
 
-global.pp_bot = fs.readFileSync("./lol.jpg")
-
-global.qris = fs.readFileSync("")
+global.pp_bot = fs.readFileSync("./foto.jpg")
 
 global.owner = ['6289615659930']
 
